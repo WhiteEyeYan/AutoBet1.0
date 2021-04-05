@@ -17,5 +17,6 @@ https://youtu.be/VtQ0DlqO74c?t=5681
 <br />  
 
 此版常有無法正確找到圖片、無法正確判讀下注的場次......等問題  
-  
-此外因為需控制滑鼠，無法在後台運行，必須使用VM
+此外因為需控制滑鼠，無法在後台運行，必須使用VM  
+為了解決這些問題後來寫了selenium版  
+https://github.com/WhiteEyeYan/AutoBet2.0
