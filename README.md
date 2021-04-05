@@ -8,6 +8,7 @@
 再利用圖片進行一連串的下注動作
 <br>
 畫面中滑鼠的移動不是固定的座標，而是利用圖片尋找到下注的位置，再算出滑鼠該移動到的位置
+
 ![image](https://github.com/WhiteEyeYan/-/blob/main/img/bet%E5%A4%A7.PNG)
 <br>
 <br>
