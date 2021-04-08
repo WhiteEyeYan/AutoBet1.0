@@ -8,7 +8,7 @@ img資料夾內為要搜尋的圖片
 類似於按鍵精靈14的"區域找圖"功能  
 <br />  
 畫面中滑鼠不是移動到固定的座標，而是利用圖片尋找到下注的位置，再算出滑鼠該移動到的位置  
-![image](https://github.com/WhiteEyeYan/-/blob/main/img/bet%E5%A4%A7.PNG)  
+![image](https://github.com/WhiteEyeYan/-/blob/main/README_img/bet%E5%A4%A7.PNG)  
 <br />  
 <br />  
 此版常有無法正確找到圖片、無法正確判讀下注的場次......等問題  
